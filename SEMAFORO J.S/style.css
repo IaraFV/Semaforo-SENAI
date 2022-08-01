@@ -1,0 +1,32 @@
+#vermelho{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 2px solid red;
+}
+
+#amarelo{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 2px solid yellow;
+}
+
+#verde{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 2px solid green;
+}
+.container{
+    width: 210px;
+    height: 620px;
+    background-color: black;
+}
+
+.opacidade{
+    opacity: 0.4;
+}
